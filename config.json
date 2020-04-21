@@ -1,0 +1,12 @@
+{
+  "service": {
+    "port": "8080"
+  },
+  "mysql": {
+    "host": "182.92.199.228",
+    "port": "3306",
+    "user": "root",
+    "password": "191400",
+    "database": "chat"
+  }
+}
